@@ -47,7 +47,8 @@ class LocationPicker:
                             .controls { flex: 1; padding: 20px; }
                             .input-group { margin: 20px 0; }
                             label { display: block; margin-bottom: 5px; font-weight: bold; color: #555; }
-                            input, select { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 14px; box-sizing: border-box; }
+                            input, select, textarea { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 14px; box-sizing: border-box; }
+                            textarea { resize: vertical; min-height: 60px; }
                             button { background: #007bff; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; width: 100%; margin: 5px 0; }
                             button:hover { background: #0056b3; }
                             .coordinates { display: flex; gap: 10px; }
@@ -74,7 +75,6 @@ class LocationPicker:
                                 
                                 <div class="controls">
                                     <div class="input-group">
-                                        <label for="search">Search Location:</label>
                                         <input type="text" id="search" placeholder="e.g., Istanbul, Turkey" />
                                         <button class="search-btn" onclick="searchLocation()">Search</button>
                                     </div>

@@ -97,5 +97,125 @@
     "image": "/images/photos/DSC_0683__GRADED.jpg",
     "thumbnail": "/images/photos/DSC_0683__GRADED.jpg",
     "date": "2025-07-13"
+  },
+  {
+    "id": 12,
+    "title": "The Myserious building",
+    "description": "A Myserious building",
+    "category": "Building",
+    "topic": "Building",
+    "image": "/images/photos/DSC_0648__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0648__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 13,
+    "title": "The Mysterious Building",
+    "description": "A Building",
+    "category": "Building",
+    "topic": "Building",
+    "image": "/images/photos/DSC_0649__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0649__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 14,
+    "title": "The Mysterious Building",
+    "description": "The Mysterious Building",
+    "category": "Building",
+    "topic": "Building",
+    "image": "/images/photos/DSC_0651__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0651__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 14,
+    "title": "The Mysterious Building",
+    "description": "The Mysterious Building",
+    "category": "Building",
+    "topic": "Building",
+    "image": "/images/photos/DSC_0652__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0652__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 15,
+    "title": "A car",
+    "description": "A car under the trees",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0653__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0653__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 16,
+    "title": "A car",
+    "description": "A car under the trees",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0655__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0655__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 17,
+    "title": "A car",
+    "description": "A car under the trees (Again)",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0662__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0662__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 18,
+    "title": "A car",
+    "description": "A car under the trees (Again)",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0663__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0663__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 19,
+    "title": "A car",
+    "description": "A car under the trees (Again)",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0666__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0666__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 20,
+    "title": "A car",
+    "description": "A car under the trees (Again)",
+    "category": "Cars",
+    "topic": "Cars",
+    "image": "/images/photos/DSC_0667__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0667__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 21,
+    "title": "The Lake Side",
+    "description": "The Lake Side",
+    "category": "Landscape",
+    "topic": "Landscape",
+    "image": "/images/photos/DSC_0689__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0689__GRADED.jpg",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 22,
+    "title": "The Lake Side Cat",
+    "description": "The Lake Side Cat",
+    "category": "Cats",
+    "topic": "Cats",
+    "image": "/images/photos/DSC_0692__GRADED.jpg",
+    "thumbnail": "/images/photos/DSC_0692__GRADED.jpg",
+    "date": "2025-07-13"
   }
 ]

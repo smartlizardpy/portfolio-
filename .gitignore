@@ -2,7 +2,7 @@
 dist/
 # generated types
 .astro/
-
+exif_editor.py
 # dependencies
 node_modules/
 
